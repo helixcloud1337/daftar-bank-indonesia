@@ -11,7 +11,7 @@
   <p align="center">
     Referensi Daftar Bank di Indonesia
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/helixcloud1337/daftar-bank-indonesia/"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </p>

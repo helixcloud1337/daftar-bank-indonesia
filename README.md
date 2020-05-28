@@ -1,10 +1,4 @@
 # daftar-bank-indonesia
-[![Contributors][contributors-shield]][https://github.com/helixcloud1337/daftar-bank-indonesia/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/helixcloud1337/daftar-bank-indonesia/network/members]
-[![Stargazers][stars-shield]][https://github.com/helixcloud1337/daftar-bank-indonesia/stargazers]
-[![Issues][issues-shield]][https://github.com/helixcloud1337/daftar-bank-indonesia/issues]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
